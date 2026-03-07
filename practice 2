@@ -1,0 +1,8 @@
+username1 = input("Enter your username: ")  # Text input
+password = int(input("Enter your password: ")) # Number input
+
+# Hum 'and' use karenge kyunki dono ka sahi hona zaroori hai
+if username1 == "admin" and password == 12345:
+    print("Access Granted")
+else:
+    print("Access Denied")
