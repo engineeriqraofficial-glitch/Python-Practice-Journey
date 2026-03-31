@@ -3,3 +3,11 @@ if(num%2 == 0):
  print("even" , num)
 else:
    ("odd", num)
+another code are 
+num =int(input("Enter the num :" num))
+if(num>2):
+ print("larger than 2")
+elif(num<2):
+ print("Smaller than 2")
+else(num==0):
+ print("num==0")
