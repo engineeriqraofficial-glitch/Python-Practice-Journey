@@ -9,5 +9,5 @@ if(num>2):
  print("larger than 2")
 elif(num<2):
  print("Smaller than 2")
-else(num==0):
+else:
  print("num==0")
